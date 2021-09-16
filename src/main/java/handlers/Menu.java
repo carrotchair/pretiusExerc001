@@ -17,7 +17,7 @@ public class Menu {
         Scanner scan = new Scanner(System.in);
         String request = "0";
 
-        while (!request.equals("5")) {
+        while (!request.equals("4")) {
             CountFileNumber.countFileNumber();
             System.out.println("1 New file");
             System.out.println("2 Segregate all files from HOME catalog");

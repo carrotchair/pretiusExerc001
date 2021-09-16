@@ -19,7 +19,6 @@ public class CreateCatalogStructure {
         File f1 = new File(finalPath);
         boolean bool = f1.mkdir();
         if (bool) {
-            System.out.println("Folder is created successfully");
         } else {
         }
     }
@@ -29,7 +28,6 @@ public class CreateCatalogStructure {
         File f1 = new File(finalPath);
         boolean bool = f1.mkdir();
         if (bool) {
-            System.out.println("Folder is created successfully");
         } else {
         }
     }
@@ -39,7 +37,6 @@ public class CreateCatalogStructure {
         File f1 = new File(finalPath);
         boolean bool = f1.mkdir();
         if (bool) {
-            System.out.println("Folder is created successfully");
         } else {
         }
     }
